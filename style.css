@@ -17,10 +17,15 @@ nav{
 
 nav ul li{
     display: inline-block;
-    list-style: none;
+    /* list-style: none; */
     color: rgb(65, 95, 143);
     font-size: 18px;
     margin: 20px;
+    text-decoration: underline;
+}
+
+li:hover{
+  color:  rgb(127, 151, 194);
 }
 
 h1{
