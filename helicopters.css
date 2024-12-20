@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("Images/blackhawkhelicopters.webp");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+div{ 
+    text-align: center;
+    color: rgb(234, 234, 239);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 100px;
+}
+
+p{
+    font-weight: 500;
+    font-size: 1.5rem;
+    margin-top: 0px;
+    margin: 50px;
+}
+
+dt{ 
+    font-weight: 500;
+    font-size: 1.5rem;  
+}
+
+
+dd{ 
+    font-weight: 300;
+    font-size: 1rem;  
+}
