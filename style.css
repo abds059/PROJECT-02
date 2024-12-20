@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+body {
+  background-image: url("Images/F16bgimg.jpg");
+  background-size: cover; /* Scale the image to cover the entire area */
+  background-position: center center; /* Center the image */
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+  background-attachment: fixed; /* Make the background fixed during scrolling */
+}
+nav{
+    text-align: left;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    color: rgb(65, 95, 143);
+    font-size: 18px;
+    margin: 20px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-weight: 900;
+    font-size: 4rem;
+    margin-bottom: 10px;
+}
+
+h2{
+    font-size: 2.5rem;
+    color: white;
+    font-weight: 900;
+    margin-top: 0px;
+}
