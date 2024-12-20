@@ -4,7 +4,7 @@ body{
 }
 
 body{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("Images/blackhawkhelicopters.webp");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("/Images/blackhawkhelicopters.webp");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
